@@ -17,7 +17,7 @@ for n=2:nMax
 end % finished loop through days
 
 % THE MODEL ^
-% ------------------------------------------
+------------------------------------------
 % THE BEHAVIOR / THE OUTPUT ? 
 
 figure(1); 
